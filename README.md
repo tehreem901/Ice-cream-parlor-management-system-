@@ -1,1 +1,3 @@
 # Ice-cream-parlor-management-system-
+
+The 3 in one ice cream parlor management system is designed for customer,cashier and administration.Customer can order multiple items from menu,give feedback and reserve table in parlor .Cashier can add items in the cart for customer,able to book table if available for customer.He can see new orders in queue,total orders till current date. Cashier can also update that which order is in progress.Admin can see the profit graph  ,add more employees ,update the salaries of employees,mark attendence of employees.He can also  see the number of customers and revenue generated .
